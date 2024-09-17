@@ -1,0 +1,16 @@
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\obj\Debug\net5.0\lr3.csproj.AssemblyReference.cache
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\obj\Debug\net5.0\lr3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\obj\Debug\net5.0\lr3.AssemblyInfoInputs.cache
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\obj\Debug\net5.0\lr3.AssemblyInfo.cs
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\obj\Debug\net5.0\lr3.csproj.CoreCompileInputs.cache
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\bin\Debug\net5.0\lr3.exe
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\bin\Debug\net5.0\lr3.deps.json
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\bin\Debug\net5.0\lr3.runtimeconfig.json
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\bin\Debug\net5.0\lr3.runtimeconfig.dev.json
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\bin\Debug\net5.0\lr3.dll
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\bin\Debug\net5.0\ref\lr3.dll
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\bin\Debug\net5.0\lr3.pdb
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\obj\Debug\net5.0\lr3.dll
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\obj\Debug\net5.0\ref\lr3.dll
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\obj\Debug\net5.0\lr3.pdb
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr3\lr3\lr3\obj\Debug\net5.0\lr3.genruntimeconfig.cache
