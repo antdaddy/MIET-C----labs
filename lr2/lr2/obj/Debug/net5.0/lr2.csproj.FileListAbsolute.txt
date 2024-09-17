@@ -1,0 +1,16 @@
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\bin\Debug\net5.0\lr2.exe
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\bin\Debug\net5.0\lr2.deps.json
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\bin\Debug\net5.0\lr2.runtimeconfig.json
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\bin\Debug\net5.0\lr2.runtimeconfig.dev.json
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\bin\Debug\net5.0\lr2.dll
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\bin\Debug\net5.0\ref\lr2.dll
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\bin\Debug\net5.0\lr2.pdb
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\obj\Debug\net5.0\lr2.csproj.AssemblyReference.cache
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\obj\Debug\net5.0\lr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\obj\Debug\net5.0\lr2.AssemblyInfoInputs.cache
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\obj\Debug\net5.0\lr2.AssemblyInfo.cs
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\obj\Debug\net5.0\lr2.csproj.CoreCompileInputs.cache
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\obj\Debug\net5.0\lr2.dll
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\obj\Debug\net5.0\ref\lr2.dll
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\obj\Debug\net5.0\lr2.pdb
+C:\Users\ant_daddy\OneDrive\Рабочий стол\c#\dzhugeli\lr2\lr2\lr2\obj\Debug\net5.0\lr2.genruntimeconfig.cache
